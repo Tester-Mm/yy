@@ -11,12 +11,12 @@ for i in range(1,10):
             print(str(j)+"*"+str(i),end=" ")
     print()
 
-print("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
-
-for k in range(1,10):
-    for l in range(1,10):
-        if l>=k:
-            print(str(k)+"*"+str(l),end=" ")
-    print()
-
-print("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
+# print("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
+#
+# for k in range(1,10):
+#     for l in range(1,10):
+#         if l>=k:
+#             print(str(k)+"*"+str(l),end=" ")
+#     print()
+#
+# print("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
