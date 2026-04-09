@@ -52,11 +52,10 @@ for user in user_list:
 
 # 打印出1-100之间的偶数和奇数
 for i in range (1,101):
-    if (i % 2 == 1):
-        print("奇数是:"+str(i))
-    else:
+    if 2 != 1:
         print("偶数是:" +str(i))
-
+    else:
+        print("奇数是:"+str(i))
 
 # 使用 for 循环，只打印出 大于 60 的成绩
 scores = [55, 78, 92, 43, 68, 81, 39]
